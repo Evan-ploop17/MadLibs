@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="descripcion">En este juego vas a ingresar unas palabras que serán insertadas en una historia y finalmente se mostrará la historia completa con las palabras que ingresaste</string>
+    <string name="empezar">Get Start</string>
+    <string name="description">Descripción</string>
+    <string name="tituloRellenar">Llene las palabras para completar la historia</string>
+    <string name="Ok">Ok</string>
+</resources>
